@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "592852766464",
+    "project_id": "coba-firebase-dc408",
+    "storage_bucket": "coba-firebase-dc408.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592852766464:android:1c50411477a62427b1ade5",
+        "android_client_info": {
+          "package_name": "com.bagaskara.qr_code_and_document"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592852766464-m531oak8buvi6cnspvjbgo4afln2993n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTHIJKwSsrjU8AF56udH8WHoXhNOYba4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592852766464-8bm2ufkao48f3m7hi1akf5ikjbnampff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
